@@ -4,7 +4,7 @@
 - For more info, I recommend having a look at the [OWASP top 10 entry for Security Misconfiguration](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A6-Security_Misconfiguration)
 
 ## Writeup
-**[Task 20]**\
+**[Task 20]**
 
  **Hint: Can you find the app's source code? Maybe the documentation gives you default credentials that you can try.**
  
