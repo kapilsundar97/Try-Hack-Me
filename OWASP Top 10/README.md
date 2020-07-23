@@ -13,4 +13,4 @@
    - Day 8) Insecure Deserialization
    - Day 9) Components with Known Vulnerabilities
    - Day 10) Insufficent Logging & Monitoring
-> The challenges are designed for beginners and assume no previous knowledge of security.
+ **The challenges are designed for beginners and assume no previous knowledge of security.**
