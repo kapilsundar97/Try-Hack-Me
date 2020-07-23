@@ -1,8 +1,9 @@
 # [OWASP Top 10 - A challenge everyday for 10 days]
 
 
-> Learn one of the OWASP vulnerabilities every day for 10 days in a row.\
-> These challenges will cover each OWASP topic:
+ **Learn one of the OWASP vulnerabilities every day for 10 days in a row.**
+ 
+ **These challenges will cover each OWASP topic:**
    - Day 1) Injection
    - Day 2) Broken Authentication
    - Day 3) Sensitive Data Exposure
